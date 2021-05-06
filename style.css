@@ -148,7 +148,7 @@
 }
 .team{
     background: #458b83;
-
+    overflow: hidden;
 }
 .pic {
     width: 1000px;
